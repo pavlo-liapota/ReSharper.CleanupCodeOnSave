@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="ReSharper.CleanupCodeOnSave.pavlo.liapota.59649d46-59ad-4688-a147-bfa32f9b4299" Version="1.0" Language="en-US" Publisher="pavlo.liapota" />
     <DisplayName>ReSharper.CleanupCodeOnSave</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">Executes ReSharper Silent Cleanup Code command when document is saved.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />

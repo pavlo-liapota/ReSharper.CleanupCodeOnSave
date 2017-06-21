@@ -51,8 +51,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Extension\OnSaveEventHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReSharperCleanupCodeOnSavePackage.cs" />
+    <Compile Include="Extension\VsRunningDocTableEventHandler.cs" />
+    <Compile Include="Extension\ReSharperCleanupCodeOnSavePackage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Key.snk" />
